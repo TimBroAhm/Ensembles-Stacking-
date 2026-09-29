@@ -28,7 +28,7 @@ Because the base models make different kinds of mistakes, the combined model can
 
 | File | Description |
 | --- | --- |
-| `Ensembles_Stacking_Heart_Failure_Prediction_(1).ipynb` | The main notebook: data loading, preparation, model training, stacking, and evaluation. |
+| `Ensembles_Stacking_Heart_Failure_Prediction.ipynb` | The main notebook: data loading, preparation, model training, stacking, and evaluation. |
 | `index.html` | Placeholder page (currently empty). |
 | `README.md` | This file. |
 
